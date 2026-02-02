@@ -3,7 +3,7 @@
 #version: 0.0
 #description: This script checks the health status of AWS EC2 instances in the configured AWS account and region.
 #Usage: ./aws_node_health.sh <region>
-#example: ./aws_node_health.sh us-east-1        
+#example: ./aws_node_health.sh ap-south-1| tee report.txt  
 ###############################################
 
 #verify the arguments are passed correctly
