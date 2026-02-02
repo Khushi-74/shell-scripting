@@ -23,16 +23,19 @@ This project highlights practical scripting skills commonly used in **DevOps, SR
 - Uses AWS CLI for real-time cloud interaction
 - Useful for audits, monitoring, and environment inspection
 
+🚀 How to use
+
 **Usage:**
 ```bash
-./aws_resource_list.sh <region> <service>
 
-## 🚀 How to Use
+
+ 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Khushi-74/shell-scripting.git
+cd shell-scripting
 chmod +x *.sh
 ./script_name.sh <region> <service>
+./aws_resource_list.sh <region> <service>
 
